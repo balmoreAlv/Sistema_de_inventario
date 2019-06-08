@@ -10,14 +10,14 @@ Para la instalación del sistema solo tienes que descargar el archivo comprimido
 -ejecutar Xampp con php y myql
 
 -probar el sistema en un navegador(Chrome) con localhos:80/Sistema_de_inventario/index.php
---
+
 
 
 Requisitos:
 --
 -Tener un un servidor web (Xampp versión 5.6.24-1)
 con php5 y mysql incluido
-Sistema linux o Winsdows
+-Sistema linux o Winsdows
 
 
 
